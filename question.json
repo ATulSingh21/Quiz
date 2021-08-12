@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "question": "What is the full form of RAM?",
+        "answer": "Random Access Memory",
+        "options": [
+            "Random Access Memory",
+            "Read Acess Memory",
+            "Randomly Acess Memory",
+            "None of the Above"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is the full form of CPU?",
+        "answer": "Central Processing Unit",
+        "options": [
+            "Central Program Unit",
+            "Central Processing Unit",
+            "Central Preload Unit",
+            "None of the Above"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is the full form of E-Mal?",
+        "answer": "Electronic Mail",
+        "options": [
+            "Electronic Mail",
+            "Electric Mail",
+            "Both",
+            "None of the Above"
+        ]
+    },
+]
